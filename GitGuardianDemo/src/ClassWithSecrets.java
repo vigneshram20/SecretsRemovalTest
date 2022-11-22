@@ -5,8 +5,8 @@ public class ClassWithSecrets {
 		// TODO Auto-generated method stub
 		
 		
-		String username = "testtest@gmail.com";
-		String password = "Password@123";
+		String username = "test19user@gmail.com";
+		String password = "TestAuto#345tgty42";
 		String base64Token = "_REMOVED=";
 	}
 
