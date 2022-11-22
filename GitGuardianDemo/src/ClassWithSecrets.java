@@ -7,7 +7,7 @@ public class ClassWithSecrets {
 		
 		String username = "testtest@gmail.com";
 		String password = "Password@123";
-		
+		String base64Token = "_REMOVED=";
 	}
 
 }
