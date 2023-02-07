@@ -9,6 +9,8 @@ public class ClassWithSecrets {
 		String password = "TestAuto#345tgty42";
 		String base64Token = "_REMOVED=";
 		String base64TokenNew1 = "_REMOVED=";
+		
+		String newString= "--CLEARED--";
 	}
 
 }
