@@ -10,7 +10,10 @@ public class ClassWithSecrets {
 		String base64Token = "_REMOVED=";
 		String base64TokenNew1 = "_REMOVED=";
 		
-		String newString= "--CLEAR_1--=";
+		String tempString = "--CLEAR_1--=";
+		
+		
+		
 	}
 
 }
